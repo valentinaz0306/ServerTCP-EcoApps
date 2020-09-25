@@ -1,0 +1,25 @@
+package main;
+
+import processing.core.PApplet;
+
+public class Main extends PApplet {
+
+	public static void main(String[] args) {
+		PApplet.main("main.Main");
+		// TODO Auto-generated method stub
+	}
+
+	public void settings() {
+
+		size(800,800);
+	}
+
+	public void setup() {
+
+	}
+
+	public void draw() {
+
+	}
+
+}// cierra main
